@@ -49,3 +49,27 @@ body{ /* lo sfondo della pagina è qui */
     clip: rect(262px, 50px, 522px, 0px); /* aggiungere traslazione di 262 px; */
     transform: translate(0,-262px);
 }
+
+#tasto1{
+    position:absolute; 
+    left: 136px; 
+    top:1325px;
+}
+
+#tasto2{
+    position:absolute; 
+    left: 136px; 
+    top:1510px;
+}
+
+#tasto1premuto{
+    position:absolute; 
+    left: 136px; 
+    top:1325px;
+}
+
+#tasto2premuto{
+    position:absolute; 
+    left: 136px; 
+    top:1510px;
+}
